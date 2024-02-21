@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+          font-family: arial, sans-serif;
+          border-collapse: collapse;
+          width: 80%;
+        }
+        
+        td, th {
+          border: 1px solid #dddddd;
+          text-align: left;
+          padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #dddddd;
+        }
+        </style>
+        </head>
+</head>
+<body>
+
+
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+    <p>Go back?<a href="forms.html">Sign up</p>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email Address</Address></th>
+  </tr>
+  <tr>
+    <td>Cynthia</td>
+    <td>Nthenya</td>
+    <td>cynthianthenya@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Glory</td>
+    <td>Joy</td>
+    <td>gloryjoy@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Faith</td>
+    <td>Hope</td>
+    <td>faithhope@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Nancy</td>
+    <td>Wainanina</td>
+    <td>nanacywainaina@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Hawa</td>
+    <td>Majid</td>
+    <td>hawamajid@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Sharon </td>
+    <td>Wanjiku</td>
+    <td>sharonwajiku@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Nancy</td>
+    <td>Wambui</td>
+    <td>nancywambui@gmail.com>
+  </tr>
+  <tr>
+    <td>Pearl</td>
+    <td>Chachari</td>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+<style>
+#form{
+    border:solid 1px;
+    width: 50%;
+    padding: 24px;
+    margin: 0 auto;
+}
+.input{
+padding: 12px 16px;
+width:80%;
+border-radius:5px ;
+border: solid 1px;
+}
+button{
+    padding:6px 12px ;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color:black;
+}
+      </style>
+</head>
+<body>
+    <form id="form">
+        <p>Already have an account?<a href="forms.html">Sign In</a></p>
+<h2>Sign up</h2>
+<label for="firstname">Name</label>
+<br/>
+<input name="name" type="text"placeholder="Enter name"   class="input"/>
+<br/>
+<br/>
+<label for="email">Email</label>
+<br/>
+<input name="email" type="email" placeholder="Enter email address" class="input"/>
+<br>
+<br>
+<label for="password">Password</label>
+<br>
+<input name="password" type="text" placeholder="Enter Password" class="input"/>
+<br>
+<br>
+<br>
+<button type="submit">Submit</button>
+</form>
+</body>
+</html>
+    <td>pearlchachari@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Maureen</td>
+    <td>Gatweri</td>
+    <td>maureengatweri@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Raziah</td>
+    <td>Mohammed</td>
+    <td>raziahmohammed@gmail.com</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+</body>
+</html>
